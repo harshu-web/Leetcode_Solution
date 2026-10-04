@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshu-web/Leetcode_Solution/tree/master/0011-container-with-most-water) |
+| [2396-strictly-palindromic-number](https://github.com/harshu-web/Leetcode_Solution/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -25,5 +26,10 @@
 ## Math
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/harshu-web/Leetcode_Solution/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/harshu-web/Leetcode_Solution/tree/master/2769-find-the-maximum-achievable-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/harshu-web/Leetcode_Solution/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
