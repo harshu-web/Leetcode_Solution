@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/harshu-web/Leetcode_Solution/tree/master/0319-bulb-switcher) |
+| [2235-add-two-integers](https://github.com/harshu-web/Leetcode_Solution/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/harshu-web/Leetcode_Solution/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/harshu-web/Leetcode_Solution/tree/master/2769-find-the-maximum-achievable-number) |
 ## Brainteaser
