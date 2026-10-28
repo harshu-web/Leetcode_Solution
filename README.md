@@ -35,4 +35,8 @@
 | ------- |
 | [0319-bulb-switcher](https://github.com/harshu-web/Leetcode_Solution/tree/master/0319-bulb-switcher) |
 | [2396-strictly-palindromic-number](https://github.com/harshu-web/Leetcode_Solution/tree/master/2396-strictly-palindromic-number) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/harshu-web/Leetcode_Solution/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
