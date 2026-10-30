@@ -21,6 +21,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshu-web/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/harshu-web/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshu-web/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/harshu-web/Leetcode_Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/harshu-web/Leetcode_Solution/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
@@ -45,6 +46,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/harshu-web/Leetcode_Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/harshu-web/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshu-web/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/harshu-web/Leetcode_Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
