@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshu-web/Leetcode_Solution/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/harshu-web/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/harshu-web/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshu-web/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [2396-strictly-palindromic-number](https://github.com/harshu-web/Leetcode_Solution/tree/master/2396-strictly-palindromic-number) |
@@ -40,6 +41,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/harshu-web/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/harshu-web/Leetcode_Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/harshu-web/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshu-web/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
