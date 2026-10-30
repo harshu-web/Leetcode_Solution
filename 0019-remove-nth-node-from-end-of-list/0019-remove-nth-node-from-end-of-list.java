@@ -20,7 +20,7 @@ class Solution {
         int j=0;
         curr=head;
         if(check==0){
-            return head.next;
+            return curr.next;
         }
         while(curr!=null){
             j++;
