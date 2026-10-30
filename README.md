@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshu-web/Leetcode_Solution/tree/master/0011-container-with-most-water) |
+| [0141-linked-list-cycle](https://github.com/harshu-web/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [2396-strictly-palindromic-number](https://github.com/harshu-web/Leetcode_Solution/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
@@ -39,4 +40,13 @@
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/harshu-web/Leetcode_Solution/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/harshu-web/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/harshu-web/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/harshu-web/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
