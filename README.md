@@ -46,6 +46,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/harshu-web/Leetcode_Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/harshu-web/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshu-web/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/harshu-web/Leetcode_Solution/tree/master/0203-remove-linked-list-elements) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harshu-web/Leetcode_Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Hash Table
 |  |
@@ -57,4 +58,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshu-web/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshu-web/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/harshu-web/Leetcode_Solution/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
