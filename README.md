@@ -25,6 +25,7 @@
 | [0234-palindrome-linked-list](https://github.com/harshu-web/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harshu-web/Leetcode_Solution/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harshu-web/Leetcode_Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshu-web/Leetcode_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/harshu-web/Leetcode_Solution/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
@@ -54,6 +55,7 @@
 | [0234-palindrome-linked-list](https://github.com/harshu-web/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harshu-web/Leetcode_Solution/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harshu-web/Leetcode_Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshu-web/Leetcode_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
